@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    margin-top: 230px;
+    margin-right: 300PX;
+    background-color:rgb(36, 158, 215);
+}
+select{
+
+    width: 15%;
+    height:45px;
+    color: white;
+    padding-left: 15px;
+    background-color: rgb(107, 3, 107);
+    border-radius: 24px;
+}
+input{
+    width: 50%;
+    height: 45px;
+    border-radius: 24px;
+    outline: none;
+    
+    
+}
+::placeholder{
+    color: rgb(107, 3, 107);
+    padding-left: 5px;
+}
+opton{
+    background-color: white;
+    border-color: black;
+    color: black;
+
+}
+span{
+    margin-left: 750px;
+    margin-bottom: 30px;
+    
+}
